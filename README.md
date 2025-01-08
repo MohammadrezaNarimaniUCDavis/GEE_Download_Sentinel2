@@ -55,14 +55,10 @@ var visualization = {
 
 For more information on Google Earth Engine, visit the [official documentation](https://developers.google.com/earth-engine).
 
-## Contributions
+## Acknowledgments
 
-Contributions are welcome! Please fork this repository and open a pull request to make modifications.
+This script and its functionalities are developed in collaboration with the Digital Agriculture Laboratory at the University of California, Davis. For more information about the lab and its projects, visit [Digital Agriculture Laboratory](https://digitalag.ucdavis.edu/).
 
 ## Contact
 
 For questions or support, please contact [Mohammadreza Narimani](mailto:mnarimani@ucdavis.edu).
-
-## Acknowledgments
-
-This script and its functionalities are developed in collaboration with the Digital Agriculture Laboratory at the University of California, Davis. For more information about the lab and its projects, visit [Digital Agriculture Laboratory](https://digitalag.ucdavis.edu/).
