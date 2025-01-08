@@ -27,6 +27,7 @@ Ensure you have access to Google Earth Engine. You can sign up for an account [h
 3. **Draw a Polygon**: Use the polygon tool in the GEE map viewer to draw a polygon over your area of interest.
 4. **Download Data**: Click the 'Download Data' button to export the imagery of the drawn polygon to your Google Drive.
 5. **Clear Drawing**: Use the 'Clear Drawing' button to remove the drawn polygon and start anew.
+6. **Download the Image**: After exporting, go to the "Tasks" tab on the right panel of the GEE code editor. Find your image task, click "Run", and the image will be saved to the "EarthEngine" folder in your connected Google Drive.
 
 ### Script Functions
 
