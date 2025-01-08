@@ -19,7 +19,7 @@ Ensure you have access to Google Earth Engine. You can sign up for an account [h
 
 ### Usage Guide
 
-1. **Open the Script**: Navigate to the GEE code editor and open the [`GEE_Download_Sentinel2.js`](./GEE_Download_Sentinel2.js) script.
+1. **Open the Script**: Navigate to the GEE code editor and then, copy and paste the [`GEE_Download_Sentinel2.js`](./GEE_Download_Sentinel2.js) script.
 2. **Set Date Range**: Modify the date range in the script to filter the Sentinel-2 images to your specific timeframe.
    ```javascript
    .filterDate('start-date', 'end-date')
