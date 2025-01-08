@@ -62,3 +62,7 @@ Contributions are welcome! Please fork this repository and open a pull request t
 ## Contact
 
 For questions or support, please contact [Mohammadreza Narimani](mailto:mnarimani@ucdavis.edu).
+
+## Acknowledgments
+
+This script and its functionalities are developed in collaboration with the Digital Agriculture Laboratory at the University of California, Davis. For more information about the lab and its projects, visit [Digital Agriculture Laboratory](https://digitalag.ucdavis.edu/).
