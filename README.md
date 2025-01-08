@@ -17,12 +17,6 @@ This repository contains a Google Earth Engine (GEE) script designed to facilita
 
 Ensure you have access to Google Earth Engine. You can sign up for an account [here](https://signup.earthengine.google.com/).
 
-## Access the Repository
-
-To access and use this script directly within your GEE environment, you can add the repository to your GEE code editor through the following link:
-
-[Add GEE_Download_Sentinel2 to GEE](https://code.earthengine.google.com/?accept_repo=users/mnarimani/GEE_Download_Sentinel2)
-
 ### Usage Guide
 
 1. **Open the Script**: Navigate to the GEE code editor and then, copy and paste the [GEE_Download_Sentinel2.js](./GEE_Download_Sentinel2.js) script.
@@ -56,6 +50,12 @@ var visualization = {
   bands: ['B4', 'B3', 'B2']
 };
 ```
+
+## Access the Repository
+
+To access and use this script directly within your GEE environment, you can add the repository to your GEE code editor through the following link:
+
+[Add GEE_Download_Sentinel2 to GEE](https://code.earthengine.google.com/?accept_repo=users/mnarimani/GEE_Download_Sentinel2)
 
 ## Additional Resources
 
