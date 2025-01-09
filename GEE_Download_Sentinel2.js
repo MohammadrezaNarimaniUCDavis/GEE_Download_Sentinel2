@@ -16,6 +16,9 @@
  * Visit our lab for more information: https://digitalag.ucdavis.edu/
  *****************************************************/
 
+// Set the base map to Google Maps Hybrid (Satellite with labels)
+Map.setOptions('HYBRID');
+
 // Function to mask clouds using the Sentinel-2 QA band
 function maskS2clouds(image) {
   var qa = image.select('QA60');
